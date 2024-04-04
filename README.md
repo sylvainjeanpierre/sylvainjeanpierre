@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hi, I'm Sylvain ! 👋
 
-<!--
-**sylvainjeanpierre/sylvainjeanpierre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+I'm a 25-year-old web developer passionate about technology and innovation.
+Recently graduated from an OpenClassrooms web development program, I am looking for opportunities to apply my skills and continue to grow professionally.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🛠 Skills
+- Languages: HTML, CSS, SASS, JavaScript
+- Frameworks/Libraries: React, Node.js, Express.js
+- Tools: Git, GitHub, Visual Studio Code, Figma
+- Others: Responsive Design, SEO Basics, Agile Methodologies
+## Hobbies
+- 💻 Computer Science
+- ⛰️ Mountain and hiking
+- 🚗 Automotive
